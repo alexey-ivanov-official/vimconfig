@@ -22,7 +22,7 @@ set statusline=%F%m%r%h%w\ [FF,FE,TE=%{&fileformat},%{&fileencoding},%{&encoding
 hi StatusLine gui=reverse cterm=reverse
 set laststatus=2
 
-"" highlight tabs and spaces at the end of line 
+" highlight tabs and spaces at the end of line 
 set list                           " enable highlight
 set listchars=tab:>-,trail:-       " configure highlight symbols
 au BufWinLeave *.* silent mkview   " save view on exit
