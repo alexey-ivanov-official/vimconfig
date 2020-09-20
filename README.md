@@ -3,8 +3,8 @@ Simple and useful Vim configuration
 
 ## Requirements
 
-* VundleVim plugin manager.
-  You can easily download it from GitHub:
+* VundleVim plugin manager.  
+  You can easily download it from GitHub:  
   ```bash
   git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
   ```
